@@ -1,0 +1,23 @@
+name: Waters
+favicon: null
+layout_spectrum: 0.2997748972848058
+typography_spectrum: 0.32763046864420176
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.2514334295410663
+  lightness: 0.6037589039187878
+  saturation: 0.44495949894189835
+  rhythmicContrast: 0.14306157105602324
+purpose: []
