@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Waters]]></title>
         <description><![CDATA[Waters]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/waters/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 Nov 2015 05:42:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 12 Nov 2015 05:45:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/waters/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Shapeoko]]></title>
+            <description><![CDATA[<article><h1>Shapeoko</h1><p>At Carbide3D, we believe that in Today's shop, a CNC machine should be just as common as a drill press or table saw. We designed the Shapeoko 3 to be affordable enough for any shop and powerful enough to do real work. Everything you need to get started with CNC comes with your Shapeoko 3.</p><img src="http://www.shapeoko.com/img/woodworking.jpg"></article>]]></description>
+            <link>http://www.shapeoko.com/</link>
+            <guid isPermaLink="false">abd5d341-ff3f-4a80-b42b-3a9f4ad89549</guid>
+            <pubDate>Thu, 12 Nov 2015 05:45:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://images.chesscomfiles.com/images/play-chess-hero.png">]]></description>
-            <link>undefinedd3acea63-ce73-47b3-9c61-729a2d948229/index.html</link>
+            <link>https://thegrid.ai/waters/d3acea63-ce73-47b3-9c61-729a2d948229/index.html</link>
             <guid isPermaLink="false">d3acea63-ce73-47b3-9c61-729a2d948229</guid>
             <pubDate>Thu, 12 Nov 2015 05:42:38 GMT</pubDate>
         </item>
